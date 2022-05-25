@@ -1,7 +1,7 @@
 ## Welcome to Sulmad Maulida - Script Termux
 You can also share your termux script by participating 
 By way of Pull Requests or by contact via;
- - Massanger [@sulmadmaulida.real](https://facebook.com/sulmadmaulida.real/)
+ - Messenger [@sulmadmaulida.real](https://facebook.com/sulmadmaulida.real/)
  - Dm instagram [@sulmadofficial](https://instagram.com/sulmadofficial)
 
 ### Participating members
