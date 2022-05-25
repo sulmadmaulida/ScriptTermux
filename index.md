@@ -4,12 +4,10 @@ By way of Pull Requests or by contact via;
  - Massanger [@sulmadmaulida.real](https://facebook.com/sulmadmaulida.real/)
  - Dm instagram [@sulmadofficial](https://instagram.com/sulmadofficial)
 
-
 ### Participating members
 The following are members who participate in sharing termux scripts for free. 
 
 ### ILHAM - CRACK
-
 1. fb-xrex.py
   > pkg install python -y
   
