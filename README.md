@@ -26,7 +26,13 @@ The following are members who participate in sharing termux scripts for free.
    
    > python ilhamRD.py
 
-#### How To Use? 
+#### How To Use, script from participation? 
 1. Download script
-2. Extract files
-2. And run the file 
+2. Extract files (Use Zarchiver)
+3. Open Termux
+4. Go to the directory where the file is located 
+   Example;
+   > cd sdcard/downloads 
+5. And run the file 
+   Example;
+   > python fileName.py
