@@ -8,13 +8,17 @@ By way of Pull Requests or by contact via;
 
 The following are members who participate in sharing termux scripts for free. 
 
-```ILHAM
-
+ILHAM
+```
 ### CRACK
 
-- fb-xrex.py
-   - jsj
-- ilham28.py
+1. fb-xrex.py
+  > pkg install python -y
+  > python fb-xrex.py
+
+2. ilham28.py
+  > pkg install python -y
+  > python fb-xrex.py
 
 **Bold** and _Italic_ and `Code` text
 
