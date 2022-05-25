@@ -21,3 +21,7 @@ The following are members who participate in sharing termux scripts for free.
    
    > python fb-xrex.py
 
+3. ilhamRD.py
+   > pkg install python -y
+   
+   > python ilhamRD.py
