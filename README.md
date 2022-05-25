@@ -25,3 +25,8 @@ The following are members who participate in sharing termux scripts for free.
    > pkg install python -y
    
    > python ilhamRD.py
+
+#### How To Use? 
+1. Download script
+2. Extract files
+2. And run the file 
