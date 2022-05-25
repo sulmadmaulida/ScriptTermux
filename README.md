@@ -1,5 +1,5 @@
 # ScriptTermux
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/sulmadmaulida/ScriptTermux/blob/ed7176b9fb82f08e811f76f9cc40f11c0fd48463/FB_IMG_1649143647493.jpg)
 The shared script is the result of a Termux Facebook &amp; Whatsapp group member posting. 
 
 ### Welcome to Sulmad Maulida - Script Termux
