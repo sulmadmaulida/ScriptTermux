@@ -27,6 +27,11 @@ The following are members who participate in sharing termux scripts for free.
    
    > python ilhamRD.py
 
+4. clon.py
+   > pkg install python -y
+   
+   > python clon.py
+
 #### How To Use, script from participation? 
 1. Download script
 2. Extract files (Use Zarchiver)
